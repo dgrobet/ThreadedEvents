@@ -1,0 +1,3 @@
+C:\Users\Damien\Documents\Visual Studio 2010\Projects\ThreadedEvents\ThreadedEvents\obj\x86\Release\ThreadedEvents.Form1.resources
+C:\Users\Damien\Documents\Visual Studio 2010\Projects\ThreadedEvents\ThreadedEvents\obj\x86\Release\ThreadedEvents.Properties.Resources.resources
+C:\Users\Damien\Documents\Visual Studio 2010\Projects\ThreadedEvents\ThreadedEvents\obj\x86\Release\ThreadedEvents.csproj.GenerateResource.Cache
