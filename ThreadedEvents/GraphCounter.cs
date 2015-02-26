@@ -25,6 +25,8 @@ namespace ThreadedEvents
                     else
                     {
                         CountChanged(this, EventArgs.Empty);
+
+
                     }
                 }
             }
